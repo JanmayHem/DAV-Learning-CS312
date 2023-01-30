@@ -6,6 +6,7 @@ To learn and spread Data Analytics and Visualization. To get started with DAV pr
 
 ## Content 
 We will be broadly covering Visualization, Data Wrangling, Statistics and Time Series Analysis. The Assignment folders contain the .ipynb file, .py file, Assignment questions, Data files etc. 
+Note: The files named "Class-n.ipynb" are the files made by my Professor to learn the basics with proper implementation.
 
 ## Books
 [Practical Statistics for Data Science](https://github.com/JanmayHem/practical-statistics-for-data-scientists) - Peter Bruce, Andrew Bruce 
